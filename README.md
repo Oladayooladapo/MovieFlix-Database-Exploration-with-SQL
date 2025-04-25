@@ -117,8 +117,6 @@ Key Relationships:
 | `movieflix_dataset.sql` | Original database dump (if included) |
 | `movieflix_exploration_queries.sql` | SQL queries written for analysis |
 | `README.md` | Project documentation (this file) |
-| *(Optional)* `query_results_screenshots/` | Screenshots or exports of key query outputs |
-
 ---
 
 ## Conclusion
