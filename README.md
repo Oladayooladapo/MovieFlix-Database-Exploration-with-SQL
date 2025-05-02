@@ -114,7 +114,7 @@ Key Relationships:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `movieflix_dataset.sql` | Original database dump (if included) |
+| `movieflix_dataset.sql` | Original database |
 | `movieflix_exploration_queries.sql` | SQL queries written for analysis |
 | `README.md` | Project documentation (this file) |
 ---
